@@ -1,8 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
-// Name: Balraj Grewal
-// Student #: 501166280
 
 /*
  * This class manages, stores, and plays audio content such as songs, podcasts and audiobooks. 

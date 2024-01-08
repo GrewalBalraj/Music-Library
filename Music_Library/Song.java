@@ -2,8 +2,6 @@
  * A Song is a type of AudioContent. A Song has extra fields such as Artist (person(s) singing the song) and composer 
  */
 
-// Name: Balraj Grewal
-// Student #: 501166280
 
 public class Song extends AudioContent implements Comparable<Song> // implement the Comparable interface
 {

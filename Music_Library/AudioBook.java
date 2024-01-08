@@ -1,6 +1,5 @@
 import java.util.ArrayList;
-// Name: Balraj Grewal
-// Student #: 501166280
+
 
 /*
  * An AudioBook is a type of AudioContent.

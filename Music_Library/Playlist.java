@@ -1,6 +1,4 @@
 import java.util.ArrayList;
-// Name: Balraj Grewal
-// Student #: 501166280
 
 /*
  * A Playlist contains an array list of AudioContent (i.e. Song, AudioBooks, Podcasts) from the library

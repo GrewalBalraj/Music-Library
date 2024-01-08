@@ -4,8 +4,6 @@ import java.util.Map;
 import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
-// Name: Balraj Grewal
-// Student #: 501166280
 
 // Simulation of audio content in an online store
 // The songs, podcasts, audiobooks listed here can be "downloaded" to your library
